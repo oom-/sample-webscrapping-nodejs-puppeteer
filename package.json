@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/oom-/sample-webscrapping-nodejs-puppeteer#readme",
   "dependencies": {
-    "puppeteer": "^2.0.0",
-    "puppeteer-extra": "^3.1.8",
-    "puppeteer-extra-plugin-stealth": "^2.4.6"
+    "puppeteer": "^5.3.1",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-stealth": "^2.6.2"
   }
 }
